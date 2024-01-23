@@ -1,4 +1,6 @@
 # Web Scraping Assistant
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crimeacs/vision_scraper/blob/main/Website_to_Embedding.ipynb)
+
 ## Description
 The Web Scraping Assistant is a comprehensive tool designed to summarize the content of any website based on a screenshot. It aims to provide a condensed executive summary of webpages, enabling users to understand a site's business and content at a glance.
 
